@@ -64,6 +64,10 @@ This file holds the dialogue related to the start up of the mod. --When Sayon is
 
 This file holds the random and player intiated dialogue.
 
+### script-greetings.rpy
+
+This file holds dialogue related to greetings.
+
 ###  script-selfcare.rpy
 
 This file holds all dialogue/topics related to the selfcare tip system we plan to implement.
