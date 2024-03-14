@@ -40,6 +40,14 @@ This file defines all the positions, colors, paths and more of DDLC's GUI interf
 
 This file defines information about your mod and contains the necessary code to build it that complies to Team Salvato's IPG.
 
+### affection.rpy
+
+This file holds the affection system
+
+### script-topics.rpy
+
+This file holds the random and player intiated dialogue.
+
 ### screens.rpy
 
 This file declares all the screens and styles used in DDLC like the main menu, dialog windows, etc.
