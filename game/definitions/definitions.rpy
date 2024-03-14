@@ -1440,6 +1440,7 @@ define s = DynamicCharacter('s_name', image='sayori', what_prefix='"', what_suff
 define m = DynamicCharacter('m_name', image='monika', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
 define n = DynamicCharacter('n_name', image='natsuki', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
 define y = DynamicCharacter('y_name', image='yuri', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
+#ask Jay to help me add Sayonicka in the definitions 
 define ny = Character('Nat & Yuri', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
 
 # This variable determines whether to allow the player to dismiss pauses.
@@ -1515,6 +1516,7 @@ default s_name = "Sayori"
 default m_name = "Monika"
 default n_name = "Natsuki"
 default y_name = "Yuri"
+default syn_name = "Sayonicka"
 
 # Poem Variables
 # This section records how much each character likes your poem in-game.
