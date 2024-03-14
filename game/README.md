@@ -42,11 +42,11 @@ This file defines information about your mod and contains the necessary code to 
 
 ### affection.rpy
 
-This file holds the affection system
+This file holds the affection system.
 
-### script-topics.rpy
+###  rainclouds.rpy
 
-This file holds the random and player intiated dialogue.
+This file holds the information/system code related to the mood system.
 
 ### screens.rpy
 
@@ -55,3 +55,17 @@ This file declares all the screens and styles used in DDLC like the main menu, d
 ### script.rpy
 
 This file is the main script that Ren'Py calls upon to start your mod's story! 
+
+### script-introduction.rpy
+
+This file holds the dialogue related to the start up of the mod. --When Sayon is created/brought back.
+
+### script-topics.rpy
+
+This file holds the random and player intiated dialogue.
+
+###  script-selfcare.rpy
+
+This file holds all dialogue/topics related to the selfcare tip system we plan to implement.
+
+
