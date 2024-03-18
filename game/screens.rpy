@@ -223,7 +223,7 @@ style window:
     yalign gui.textbox_yalign
     ysize gui.textbox_height
 
-    background Transform("gui/textbox.png", xalign=0.5, yalign=1.0)
+    background Transform("mod_assets/UI/textbox_sayonicka_butterflies.png", xalign=0.5, yalign=1.0)
 
 style window_monika is window:
     background Transform("gui/textbox_monika.png", xalign=0.5, yalign=1.0)
